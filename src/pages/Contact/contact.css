@@ -1,0 +1,64 @@
+@keyframes animate-border {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 100%;
+    }
+}
+
+.event-coordinator-holder {
+    margin-bottom: 100px;
+}
+
+.con-title {
+    width: fit-content;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 32px;
+    border-bottom: 3px solid #0d6efd;
+    animation: animate-border 0.3s ease-in;
+    color: #fff;
+    margin: auto;
+}
+.con-title-main {
+    width: fit-content;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 32px;
+    border-bottom: 3px solid #0d6efd;
+    animation: animate-border 0.3s ease-in;
+    color: #fff;
+    margin:auto;
+}
+
+.con-title:hover {
+    transform: scale(1.2);
+    color: #fff;
+}
+
+.con-title::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 0;
+    animation: animate-border 0.3s ease-in;
+}
+
+.student-details {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+
+@media only screen and (max-width: 530px) {
+    .con-title {
+        font-size: 30px;
+        text-align: center;
+    }
+}

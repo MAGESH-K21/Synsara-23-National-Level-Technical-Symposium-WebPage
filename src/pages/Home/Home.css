@@ -1,0 +1,17 @@
+.loader-container {
+    max-width: 100%;
+    height: 100vh;
+    position: contain;
+    background: rgba(0, 0, 0, 0.834)
+        url("homepage.gif") center
+        no-repeat;
+    z-index: 1;}
+    @media screen and (max-width: 850px) {
+    .loader-container{
+      position: contain; 
+      background: rgba(0, 0, 0, 0.834)
+          url("homepagemob.gif") center
+          no-repeat;
+      z-index: 1; 
+      }
+    }

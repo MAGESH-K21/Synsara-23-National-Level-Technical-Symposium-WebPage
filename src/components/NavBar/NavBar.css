@@ -1,0 +1,55 @@
+/* SYNSARA’21 */
+.navbar_title {
+  width: 316px;
+  height: 52px;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 43px;
+  color: #0d6efd !important;
+  background: url("../../static/synsara-logo.png") no-repeat;
+  position: relative;
+  top: 15px;
+  background-size: 45% auto;
+  text-shadow: -4px 4px 4px rgba(0, 0, 0, 0.3);
+}
+
+.navbar_title:hover {
+  color: #0d6efd;
+  text-shadow: -4px 4px 4px rgba(0, 0, 0, 0.75);
+}
+
+.navbar_div {
+  padding: 10px;
+}
+
+.navbar_links {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 17px;
+  text-align: center;
+  transition: 0.3s ease-in-out !important;
+}
+
+.navbar_links:hover {
+  transform: translateY(-3px);
+  color: #fcfcffd3 !important;
+}
+
+@media screen and (max-width: 763px) {
+  .navbar_title {
+    background: url("../../static/sairam-logo.png") no-repeat;
+    top: 10px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .navbar_title {
+    width: 200px;
+    background-size: 100%;
+    top: 5px;
+  }
+}

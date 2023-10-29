@@ -1,0 +1,180 @@
+{
+    "staff": [{
+            "name": "Dr. B Priya",
+            "contactNumber": "+91 94875 68691"
+        },
+        {
+            "name": "Mrs. R Deepika",
+            "contactNumber": "+91 97916 81828"
+        },
+        {
+            "name": "Mrs. A Shali",
+            "contactNumber": "+91 91763 87776"
+        }
+
+    ],
+    "students": [{
+            "name": "Mr. Kamalraj M",
+            "contactNumber": "+91 99405 99249"
+        },
+        {
+            "name": "Mr. Shriram S",
+            "contactNumber": "+91 96596 11941"
+        },
+        {
+            "name": "Mr. Sai kaushik",
+            "contactNumber": "+91 95005 01136"
+        },
+        {
+            "name": "Ms. Thanuja B",
+            "contactNumber": "+91 63036 14525"
+        },
+        {
+            "name": "Ms. Rama Nanditha",
+            "contactNumber": "+91 70104 23908"
+        },
+        {
+            "name": "Ms. Padmaja",
+            "contactNumber": "+91 95661 75585"
+        }
+
+    ],
+    "WebsiteDevelopers":[{
+        "name": "Mr. Harish PS",
+        "contactNumber": "+91 9778314918"
+        
+    },
+    { 
+        "name": "Mr. Magesh K",
+        "contactNumber": "+91 7010828344"
+    },
+    { 
+        "name": "Mr. Selvanarayanan A",
+        "contactNumber": "+91 7010828344"
+    },
+    { 
+        "name": "Mr. Youkesh G",
+        "contactNumber": "+91 7010677128"
+    },
+    { 
+        "name": "Mr. G Keertheshwaran",
+        "contactNumber": "+91 9500163394"
+    }
+],
+    "eventCoordinators": [{
+            "name": "Ms. Sruthi R ",
+            "event": "Blank Space",
+            "contactNumber": "+91 6379177062"
+        },
+        {
+            "name": "Mr. Faizal Ahmed",
+            "event": "Blank Space",
+            "contactNumber": "+91 9710056203"
+        },
+        {
+            "name": "Ms. Karunya S",
+            "event": "You & I",
+            "contactNumber": "+91 9360706206"
+        },
+        {
+            "name": "Mr. Jalakandeswaran",
+            "event": "You & I",
+            "contactNumber": "+91 8925136096"
+        },
+        {
+            "name": "Ms. Dakiniswari",
+            "event": "CodeR-Verse",
+            "contactNumber": "+91 9445831971"
+        },
+        {
+            "name": "Mr. Sriram S",
+            "event": "CodeR-Verse",
+            "contactNumber": "+91 6379736432"
+        },
+        {
+            "name": "Mr. Jedidiah Samuel",
+            "event": "I Know you were trouble",
+            "contactNumber": "+91 9043647764"
+        },
+        {
+            "name": "Mr. Dinesh Kumar",
+            "event": "I Know you were trouble",
+            "contactNumber": "+91 9840106279 "
+        },
+        {
+            "name": "Ms. Ishwarya V",
+            "event": "Hustlers Harmony",
+            "contactNumber": "+91 9677684212"
+        },
+        {
+            "name": "Mr. Sarath Kumaar J",
+            "event": "Hustlers Harmony",
+            "contactNumber": "+91 7358439807"
+        },
+        {
+            "name": "Ms. Magisha",
+            "event": "Ads don’t lie",
+            "contactNumber": "+91 7200227741"
+        },
+        {
+            "name": "Mr. Suddharshan C V",
+            "event": "Ads don’t lie",
+            "contactNumber": "+91 9710295253"
+        },
+        {
+            "name": "Ms. Megha Varshini ",
+            "event": "Alaipaduthey",
+            "contactNumber": "+91 91502 48453"
+        },
+        {
+            "name": "Mr. Prathyek",
+            "event": "Alaipaduthey",
+            "contactNumber": "+91 82201 65782"
+        },
+        {
+            "name": "Mr. Aditya Madhavan",
+            "event": "Valorant",
+            "contactNumber": "+91 7299985264"
+        },
+        {
+            "name": "Mr. Pramith Kiran",
+            "event": "Valorant",
+            "contactNumber": "+91 8072497714"
+        },
+        {
+            "name": "Ms. Sindhuja",
+            "event": "The Knight changes",
+            "contactNumber": "+91 7904874658"
+        },
+        {
+            "name": "Ms. Rashmi T",
+            "event": "The Knight changes",
+            "contactNumber": "+91 9840389967"
+        },
+        {
+            "name": "Ms. Swetha S",
+            "event": "Trivia Fiesta",
+            "contactNumber": "+91 9025187589"
+        },
+        {
+            "name": "Mr. Yuvanraj",
+            "event": "Trivia Fiesta",
+            "contactNumber": "+91 9025847288"
+        },
+        {
+            "name": "Ms. Shreya S",
+            "event": "Code me like you do",
+            "contactNumber": "+91 9025613268"
+        },
+        {
+            "name": "Mr. Aniruddhan S",
+            "event": "Code me like you do",
+            "contactNumber": "+91 9092961314"
+        },
+        {
+            "name": "Mr. Vishva Pranav S",
+            "event": "Code me like you do",
+            "contactNumber": "+91 7358596101"
+        }
+    ]
+  }

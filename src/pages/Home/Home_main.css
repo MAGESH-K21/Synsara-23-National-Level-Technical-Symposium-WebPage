@@ -1,0 +1,37 @@
+@font-face{
+    font-family:"myfont";
+    src: url("Open 24 Display St.ttf");
+    /* src:local('@'),
+        url('Open 24 Display St.ttf') format('truetype') */
+
+}
+@font-face {
+    font-family: "Audiowide-Regular";
+    src: url("Audiowide-Regular.ttf");
+    src:local('@'),
+        url('Audiowide-Regular.ttf') format('truetype')
+}    
+
+.boxStyle{
+    font-size:28px;
+    color:white;
+    padding-left:55px; 
+    padding-right:55px; 
+    padding-top:32px; 
+    padding-bottom:15px;  
+    box-shadow:  0 1px 10px white; 
+    font-family:"myfont";
+}
+@media (max-width:780px){
+    .boxStyle{
+        font-size:18px;
+        color:white;
+        width:max-content;
+        padding-left:35px; 
+        padding-right:35px; 
+        padding-top:35px; 
+        padding-bottom:15px;  
+        box-shadow:  0 1px 10px white; 
+        font-family:"myfont";
+    }
+}

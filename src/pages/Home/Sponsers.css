@@ -1,0 +1,41 @@
+.sponsor-board{
+    overflow: hidden;
+}
+
+.sponsor-loop {
+    display: flex;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: scroll 13s linear infinite;
+  }
+  
+  .sponsor {
+    padding: 10px;
+    margin-right: 10px;
+  }
+
+  .sponsor img {
+    max-width: auto;
+    height: 150px;
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .sponsor-loop {
+      animation: scroll 5s linear infinite; /* Faster animation for mobile */
+    }
+  
+
+  
+    .sponsor img {
+      max-width: 120px; /* Reduce image size for smaller screens */
+    }
+  }

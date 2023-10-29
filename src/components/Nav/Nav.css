@@ -1,0 +1,30 @@
+/* .navbar {
+    padding: 10px 20px;
+    justify-content: space-between;
+    z-index: 10;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.navbar-brand {
+    background: url("../../static/synsara-logo.png") no-repeat;
+    background-size: contain;
+    width: 180px;
+    height: 40px;
+    background-position: center;
+}
+
+.nav-item.active .nav-link {
+    color: white;
+}
+
+@media only screen and (max-width: 480px) {
+    .navbar-brand {
+        background: url("../../static/sairam-logo.png") no-repeat;
+        background-size: contain;
+        width: 150px;
+        height: 30px;
+    }
+} */

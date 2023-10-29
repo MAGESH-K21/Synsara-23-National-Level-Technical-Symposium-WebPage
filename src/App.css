@@ -1,0 +1,15 @@
+
+
+.body{
+      /* margin: 10px 0px 70px 0px; */
+      /* padding: 0px 50px; */
+      overflow-x: hidden;
+      z-index: 10;
+      
+}   
+
+@media only screen and (max-width: 480px){
+      .body{
+            padding: 0px 15px;
+      }
+}

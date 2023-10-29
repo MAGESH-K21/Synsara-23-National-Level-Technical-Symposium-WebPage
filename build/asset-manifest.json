@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8388e31.css",
+    "main.js": "/static/js/main.057c04fb.js",
+    "static/media/bgweb.gif": "/static/media/bgweb.ef0e763eeae9e5df6ed5.gif",
+    "static/media/homepage.gif": "/static/media/homepage.b8b76d875962afc6bf5e.gif",
+    "static/media/SYNSARA WEBSITE TEXT.png": "/static/media/SYNSARA WEBSITE TEXT.14a0e02d431111eac2b1.png",
+    "static/media/homepagemob.gif": "/static/media/homepagemob.2567cb48fe8b749d054d.gif",
+    "static/media/Bg.png": "/static/media/Bg.6903a4807b83e06148f3.png",
+    "static/media/Ads.pdf": "/static/media/Ads.576bfe4f9c9fb7983023.pdf",
+    "static/media/I knew.pdf": "/static/media/I knew.84418f685552cee8b501.pdf",
+    "static/media/codeR-verse.pdf": "/static/media/codeR-verse.a8c2c924480214f277ec.pdf",
+    "static/media/you&I.pdf": "/static/media/you&I.35c19dc00151d063239d.pdf",
+    "static/media/Trivia.pdf": "/static/media/Trivia.3ac15527efacdde80084.pdf",
+    "static/media/webbgmb.gif": "/static/media/webbgmb.2ca5109559b95f3d2069.gif",
+    "static/media/Alaipaduthay.pdf": "/static/media/Alaipaduthay.d260e50f920ddec5d943.pdf",
+    "static/media/Blank Space.pdf": "/static/media/Blank Space.5809694347121d59635c.pdf",
+    "static/media/valorant.pdf": "/static/media/valorant.fb18c0129edda812c01b.pdf",
+    "static/media/Hackathon.pdf": "/static/media/Hackathon.4e305f03272897b34a81.pdf",
+    "static/media/Hustlers.pdf": "/static/media/Hustlers.b9fd287e22633e272c6f.pdf",
+    "static/media/chess.pdf": "/static/media/chess.8a2dce793ee3283ec366.pdf",
+    "static/media/webbg.gif": "/static/media/webbg.c065e373a2fb69097407.gif",
+    "static/media/SAIRAM-BUS-ROUTE.pdf": "/static/media/SAIRAM-BUS-ROUTE.4d79bb89409c896fc1fb.pdf",
+    "static/media/bgweb.mp4": "/static/media/bgweb.ce58615f69621be90d83.mp4",
+    "static/media/cocacola.png": "/static/media/cocacola.9e8bbab1748a2973a9ec.png",
+    "static/media/Audiowide-Regular.ttf": "/static/media/Audiowide-Regular.2017bdb174a62d0daa3e.ttf",
+    "static/media/aboutinst.png": "/static/media/aboutinst.6a0ee7b58d591e75cbff.png",
+    "static/media/synsara-logo.png": "/static/media/synsara-logo.ba8ea747b4f326a9a524.png",
+    "static/media/hamburger.png": "/static/media/hamburger.b8536c688d1bf14b6e82.png",
+    "static/media/Open 24 Display St.ttf": "/static/media/Open 24 Display St.c4efb6934f5c144a19ed.ttf",
+    "static/media/hamclose.png": "/static/media/hamclose.2bda69a3232eddbac6f3.png",
+    "static/media/sairam-logo.png": "/static/media/sairam-logo.0498f15b9b0797753909.png",
+    "static/media/amazon.png": "/static/media/amazon.4e038a528d33370ce833.png",
+    "index.html": "/index.html",
+    "main.a8388e31.css.map": "/static/css/main.a8388e31.css.map",
+    "main.057c04fb.js.map": "/static/js/main.057c04fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8388e31.css",
+    "static/js/main.057c04fb.js"
+  ]
+}

@@ -1,0 +1,37 @@
+.btn{
+      border-radius: 50px;
+      width: max-content;
+}
+
+.btn-primary{
+      background: #0d6efd;
+      color:rgb(255, 255, 255);
+      width: 200px;
+      border: 1px solid #2952e3;
+      height: 40px;
+      box-shadow: 0 1px 10px white,0 1px 10px white;
+}
+
+.btn-primary:hover{
+      background: rgb(0, 63, 158);
+      color: #ffffff;
+      border: 1px solid #0d6efd;
+}
+
+.btn-secondary{
+      background: rgba(97, 132, 216, 0.6);
+      border: 1px solid #0d6efd;
+}
+.btn-dark{
+      background: rgb(255, 255, 255);
+      opacity: 0.8;
+      color:#0d6efd;
+      font-family: sans-serif;
+      font-weight: bolder;
+      border: 2px solid rgb(0, 22, 146);
+}
+
+.btn-secondary:hover{
+      background: rgb(211, 211, 211);
+      border: 1px solid #0d6efd;
+}

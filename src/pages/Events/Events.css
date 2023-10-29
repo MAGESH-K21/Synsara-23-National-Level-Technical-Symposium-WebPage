@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400;700&display=swap");
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Oxygen, sans-serif;
+}
+
+.wrapper {
+    margin-top: 120px;
+    margin-bottom: 55px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 20rem));
+    gap: 6rem;
+    justify-content: center;
+}
+
+.card {
+    color: white;
+    background-color: black;
+    overflow: hidden;
+    box-shadow: 0 2px 20px #0d6efd;
+    border-radius: 0.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    transition: transform 200ms ease-in;
+    border-radius: 15px;
+    height: 100%;
+}
+
+.card__image {
+    padding: 0.7rem;
+    height: 14rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card__title {
+    padding: 1rem;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+}
+
+.card__description {
+    padding: 0 1rem;
+}
+
+.card__btn {
+    width: 90%;
+    padding: 0.6rem;
+    font-weight: 700;
+    font-family: inherit;
+    font-size: 1.1rem;
+    background: #0d6efd;
+    color: white;
+    margin: 0 1rem 1rem 1rem;
+    border-radius: 0.2rem;
+    transition: background 200ms ease-in, color 200ms ease-in;
+    border-radius: 15px;
+}
+
+.card:hover {
+    transform: scale(1.12);
+}
+
+.card__btn:hover span {
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+

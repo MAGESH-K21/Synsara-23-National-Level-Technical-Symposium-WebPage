@@ -1,0 +1,614 @@
+[{
+        "eventTitle": "Blank Space",
+        "eventId": "Blank Space",
+        "eventName": "Technical Auction",
+        "eventTagline": "Magic, Madness, Auction, Bid",
+        "mode": "Offline",
+        "venue": "Hands On",
+        "EventDate": "2nd November 2023",
+        "ReportingTime": "9.45 AM, 02nd NOV 2023",
+        "EventTime": "10:00 AM - 12:30 PM",
+        "eventDescription": "In a world of bland automation, we invite you to our technical quiz with a twist. Think you can make the tables turn? Well, solve it quick, to be the pick. Money’s the game, wanna play?",
+        "Winners": "3",
+        "prize1": "1st Prize - Rs. 2000",
+        "prize2":"2nd Prize - Rs.1200",
+        "prize3":"3rd Prize - Rs.800",
+        "eventRounds": [{
+            "roundName": "Instructions",
+            "roundRules": [
+                "1) This is an offline event",
+                "2) Team should consist of 3 members.",
+                "3) Registrations will be considered on a First Come First Serve basis.",
+                "4) No registration fee.",
+                "5) Only the team lead should register on behalf of the team.",
+                "6) Everyone will be allotted 10,000 points at the beginning of this event.",
+                "7) Every team will take part in the war of bidding to win an opportunity to answer the question.",
+                "8) If the answer for that particular question is right, they would get the set amount of points allocated for that particular question.",
+                "9) If the answer they stated was wrong the amount of points they bidded for that question will be deducted.",
+                "10) If the point reaches zero ,then that team will be eliminated .",
+                "11) Exposing the answer or use of any electronic gadgets will result in elimination.",
+                "12) The team with the maximum number of points at the end of this event will be considered the winner and the second highest as the runner-up.",
+                "13) E-Certificates will be provided for active participants."
+
+            ]
+        }],
+        
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Sruthi R ",
+                "eventCoordinatorNumber": "+91 6379177062"
+            },
+            {
+                "eventCoordinatorName": "Faizal Ahmed",
+                "eventCoordinatorNumber": "+91 9710056203"
+            }
+        ],
+
+        "eventImage": "/event-img/logoo/Blank Space.png",
+        "eventPoster": "/event-poster/FINAL POSTERS/12.png",
+        "eventPosterMob": "/event-poster/mob/7.png",
+        "eventType": "technical",
+        "eventUrl": "https://forms.gle/3L1ofiyGH84BywGf8",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "yoU & I",
+        "eventId": "yoU & I",
+        "eventName": "UI/UX",
+        "eventTagline": "Minimalistic palettes; Maximalist pages",
+        "mode": "Both Online and Offline",
+        "venue":"Computer Center 6",
+        "EventDate": "31th October 2023 (online) & 2nd November 2023",
+        "ReportingTime": "9:30 AM",
+        "EventTime": "09:30 AM - 12:00 PM",
+        "eventDescription": "Unique, United and Unyielding. Compose your designs with bags of characters to make the trophy your winning glory.",
+        "Winners": "3",
+        "prize1": "1st Prize - Rs. 2000",
+        "prize2":"2nd Prize - Rs.1200",
+        "prize3":"3rd Prize - Rs.800",
+        "eventRounds": [{
+            "roundName": "Instructions",
+            "roundRules": [
+                "1)Allowed tools: Figma, Adobe XD, Photoshop, Canva",
+                "2)Duration- 2 days (Round 1- Online, Round 2,3 - Offline).",
+                "3)Team should consist of 2 members.",
+                "4)No registration fee.",
+                "5)Only the team lead should register on behalf of the team.",
+                "6)This is a website design contest, the theme will only be announced on the day of the event.",
+                "7)E-Certificates will be provided for all the participants"
+            ]
+        },{
+            "roundName": "Round 1-(Duration: 1.5 hours, Online on Discord)",
+            "roundRules": [
+                "A.Participants will be given distinct problem statements to design a web app.",
+                "B.The registered teams will further be grouped together, top 3 teams from each group will be selected to Round 2.",
+                "C.The event will be monitored through Discord, participants should join the allocated Discord server prior to the event.",
+                "D.Screen sharing should not be stopped at any point.",
+                "E.Results will be announced for this round within 24 hours."
+            ]
+        },
+        {
+            "roundName": "Round 2-(Duration: 45 minutes, Offline)",
+            "roundRules": [
+                "A. Teams moved to this round will be given a vague problem statement to design a mobile app.",
+                "B. The teams should determine constraints(Eg. Choose color palettes, animations, etc) and put them into papers, which will be shuffled and picked up by other teams which have to follow the constraints on the given paper. (If you’re lucky, you might get yours).",
+                "C. Results will be announced within half an hour."
+            ]
+        },
+        {
+            "roundName": "Round 3-(Duration: 1 hour 20 mins, Offline)",
+            "roundRules": [
+                "A. 8 teams are shortlisted from Round 2.",
+                "B. A common problem statement for a web app is given to all the teams.",
+                "C. Team can communicate for the first 10 mins and make an action plan, which they can refer to for the duration of the designing.",
+                "D. The next hour, each team member will be switched every 10 mins to work on the same system, they are not allowed to communicate within themselves.",
+                "E. Last 10 minutes, they can work together."
+
+            ]
+        }
+    ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Karunya S",
+                "eventCoordinatorNumber": "+91 9360706206"
+            },
+            {
+                "eventCoordinatorName": "Jalakandeswaran",
+                "eventCoordinatorNumber": "+91 8925136096"
+            }
+        ],
+        "eventImage": "/event-img/logoo/yoU _ I.png",
+        "eventPoster": "/event-poster/you&I.png",
+        "eventPosterMob": "/event-poster/mob/11.png",
+        "eventType": "technical",
+        "eventUrl": "https://forms.gle/xKxd8ncwJRrDKTrE8",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "codeR-verse",
+        "eventId": "codeR-verse",
+        "eventName": "Reverse Engineering",
+        "eventTagline": "A key, A lock, A cipher. Decipher.",
+        "mode": "Offline",
+        "venue": "Computer Center 6",
+        "EventDate": "31th October 2023 (online) & 2nd November 2023",
+        "ReportingTime": "9:15 AM",
+        "EventTime": "9:25 AM - 12:25 PM",
+        "eventDescription": "Not everything is as it seems, find the hidden patterns lurking in the corners. Don’t be cryptical, Be Analytical.",
+        "Winners": "3",
+        "prize1": "1st Prize - Rs. 2000",
+        "prize2":"2nd Prize - Rs.1200",
+        "prize3":"3rd Prize - Rs.800",
+        "eventRounds": [{
+            "roundName": "Instructions",
+            "roundRules": [
+                "1)This is an offline event",
+                "2) Team should consist of 3 members(at max)",
+               " 3) Registrations will be considered on a First Come First Serve basis",
+                "4) No registration fee",
+                "5) Only the team lead should register on behalf of the team.",
+                "6) Round 1 will be conducted via Zoom meetings",
+                "7) The questions will be based on coding & decoding, find the output connections,find the error etc.., related to basic coding and cryptography.",
+                "8) Finalists will have a rapid fire round and a coding round(might)",
+               " 9) E- Certificates will be provided for all participants"
+            ]
+        }
+    ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Dakiniswari",
+                "eventCoordinatorNumber": "+91 9445831971"
+            },
+            {
+                "eventCoordinatorName": "Sriram S",
+                "eventCoordinatorNumber": "+91 6379736432"
+            }
+        ],
+        "eventImage": "/event-img/logoo/CodeR-verse.png",
+        "eventPoster": "/event-poster/FINAL POSTERS/20.png",
+        "eventPosterMob": "/event-poster/mob/3.png",
+        "eventType": "technical",
+        "eventUrl": "https://forms.gle/ao1K3XRoxayAZfS99",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "I Knew you were trouble",
+        "eventId": "I Knew you were trouble",
+        "eventName": "Code Debug",
+        "eventTagline": "Hit the bugs the classical way",
+        "mode": "Offline",
+        "venue": "Computer Center 6",
+        "EventDate": "2nd November 2023",
+        "ReportingTime": "9:15 AM",
+        "EventTime": "9:40 AM - 12:00 PM",
+        "eventDescription": "Be it syntax, semantic or logical, it’s time to go technical to eliminate the bane of your existence.Shoot your shot to terminate the bugs eating away at your code.",
+        "Winners": "3",
+        "prize1": "1st Prize - Rs. 2000",
+        "prize2":"2nd Prize - Rs.1200",
+        "prize3":"3rd Prize - Rs.800",
+        "eventRounds": [
+            {
+                "roundName": "Instructions",
+                "roundRules": [
+                    "1) This is an offline event",
+                    "2) It is a solo event",
+                    "3) Registrations will be considered on a First Come First Serve basis",
+                    "4) No registration fee",
+                    "5) Only the team lead should register on behalf of the team.",
+                    "6) In the inaugural round, a 45-minute affair of intellectual rigor, contestants will face a twofold test.",
+                    "○ First, a collection of 20 Multiple Choice Questions (MCQs) awaits, encompassing both elementary and intermediate levels of debugging conundrums.",
+                    "○ These MCQs will traverse the domains of C and Python programming and will be administered through the dynamic Quizizz platform.",
+                    "○ Following this, participants will encounter two thought-provoking programming questions via HackerRank and can be solved in the programming language of their choice.",
+                    "○ The grand finale unfolds in the second round, participants face a slate of 10 programming challenges, spanning the spectrum from medium to hard difficulty levels.",
+                    "○ The competition criteria for this stage are twofold: the number of programming challenges solved and the time taken to conquer them.",
+                    "7) E- Certificates will be provided for all participants."
+
+                ]
+            }
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Jedidiah Samuel",
+                "eventCoordinatorNumber": "+91 9043647764"
+            },
+            {
+                "eventCoordinatorName": "Dinesh Kumar",
+                "eventCoordinatorNumber": "+91 9840106279 "
+            }
+        ],
+
+        "eventImage": "/event-img/logoo/I knew You Were Trouble.png",
+        "eventPoster": "/event-poster/FINAL POSTERS/4.png",
+        "eventPosterMob": "/event-poster/mob/10.png",
+        "eventType": "technical",
+        "eventUrl": "https://forms.gle/WXxTFJ4xbpFpdJXw6",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "Hustlers Harmony",
+        "eventId": "Hustlers Harmony",
+        "eventName": "Business Pitching",
+        "eventTagline": "Pitching Dreams into Reality",
+        "mode": "Offline",
+        "venue": "Gamma Hall",
+        "EventDate": "2nd November 2023",
+        "ReportingTime": " 9:15 AM",
+        "EventTime": "9:30 Am onwards",
+        "eventDescription": "Make your ideas shine bright to put your name in the hall of fame. In the pages of these slides shall lie the products of your mind.",
+        "Winners": "3",
+        "prize1": "1st Prize - Rs. 2000",
+        "prize2":"2nd Prize - Rs.1200",
+        "prize3":"3rd Prize - Rs.800",
+        "eventRounds": [{
+            "roundName": "Instructions",
+            "roundRules": [
+                " 1) This is an offline event",
+                "2) Team should consist of 3 members(at max)",
+                "3) Registrations will be considered on a First Come First Serve basis",
+                "4) No registration fee",
+                "5) Only the team lead should register on behalf of the team",
+                "6) Based on the marks obtained in Round 1(PPT Submission), the filtration process will be done. The results of round 1 will be announced two days prior the event day",
+                "7) The team must maintain stage decorum and should complete the presentation within the allocated time",
+                "8) +Teams are asked to adhere to the template of PPT",
+                "9) Winners will be selected based on the Feasibility of the product ,Market Proportion, unique Selling Point, Research & Market Knowledge and Minimum Viable Product.",
+                "10) E-certificates will be provided for all participants."
+            ]
+        }],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Ishwarya V",
+                "eventCoordinatorNumber": "+91 9677684212"
+            },
+            {
+                "eventCoordinatorName": "Sarath Kumaar J",
+                "eventCoordinatorNumber": "+91 7358439807"
+            }
+        ],
+        "eventImage": "/event-img/logoo/Hustlers Harmony.png",
+        "eventPoster": "/event-poster/FINAL POSTERS/8.png",
+        "eventPosterMob": "/event-poster/mob/9.png",
+        "eventType": "technical",
+        "eventUrl": "https://forms.gle/2UeNzxFFqS7GpG4r5",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "Ads don’t lie",
+        "eventId": "Ads don’t lie",
+        "eventName": "AD-Zap",
+        "eventTagline": "Let’s make it Utterly butterly expedious!",
+        "mode": "Offline",
+        "venue": "TV classroom",
+        "EventDate": "2nd November 2023",
+        "ReportingTime": "9:45 AM",
+        "EventTime": " 10:00 AM - 1:25 PM",
+        "eventDescription": "Hey Folks! It’s time for the world to see the performer in you!!. If you can ‘Think Big’, ‘Think Different’ and ‘Think out of the bun’, this contest is for you. Showcase your brand endorsement skills at the finest. But Why? Cuz ‘Its finger lickinn good’.’Lets do it’. ‘Live in your world & play in ours’ because you’re worth it.",
+        
+        "Winners": "2",
+        "prize1": "1st Prize - Rs. 1000",
+        "prize2":"2nd Prize - Rs.500",
+        "eventRounds": [{
+                "roundName": "Instructions",
+                "roundRules": [
+                    "1) This is an offline event",
+                    "2) Team should consist of 3-5 members",
+                    "3) No registration fee",
+                    "4) Only the team lead should register on behalf of the team",
+                    "5) The teams can endorse any brand/product of their choice in round 1",
+                    "6) Teams will be qualified to round 2 based on the creativity of their performance",
+                    "7) A Quiz on brands, logos and taglines will be conducted as round 2",
+                    "8) High scoring teams will be qualified for the final round.",
+                    "9) Scoring for quiz will be based on the accuracy and spontaneity of the answers given by the team",
+                    "10) In the final round, each team must pick a mystery box of their choice. Each Mystery box will contain the details of the product with some constraints which the team has to endorse.",
+                    "11) Time will be given for preparation. Each team must keep their performance within the allocated time",
+                    "12) Winners will be chosen based on their final performance",
+                    "13) E- Certificates will be provided for all participants "
+
+
+                ]
+            },
+            {
+                "roundName": "Round 1",
+                "roundRules": [
+                    "1.I234, Get on the Dance floor: Individual performance of all the participants."
+                ]
+            },
+            {
+                "roundName": "Round 2",
+                "roundRules": [
+                    "1.Potu thaku: Face-off between selected participants."
+                ]
+            },
+            {
+                "roundName": "Round 3",
+                "roundRules": [
+                    "1.Pathala Pathala: The shortlisted participants from the previous round will have to do an individual performance."
+
+                ]
+            }
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Magisha",
+                "eventCoordinatorNumber": "+91 7200227741"
+            },
+            {
+                "eventCoordinatorName": "Suddharshan C V",
+                "eventCoordinatorNumber": "+91 9710295253"
+            }
+        ],
+        "eventImage": "/event-img/logoo/Ads don_t lie.png",
+        "eventPoster": "/event-poster/FINAL POSTERS/18.png",
+        "eventPosterMob": "/event-poster/mob/4.png",
+        "eventType": "non-technical",
+        "eventUrl": "https://forms.gle/PqaPf8Bx6E5UQ2o1A",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "Alaipaduthey",
+        "eventId": "Alaipaduthey",
+        "eventName": "Guess the Music",
+        "eventTagline": "Unwind the maestro in you!",
+        "mode": "Offline",
+        "venue": "Classroom",
+        "EventDate": "2nd November 2023",
+        "ReportingTime": "9.00 AM",
+        "EventTime": "9.30 AM - 12.30 PM",
+        "eventDescription": "Hey Music Lovers, the time has come for you to guess and win. ‘It's the most wonderful time of the year’ as you get to guess along amazing tunes. Unravel the mysteries of the musical world by filling the plate with your lyrical taste.",
+        "winners": "2",
+        "prize1": "1st Prize - Rs. 1000",
+        "prize2":"2nd Prize - Rs.500",
+        "eventRounds": [{
+                "roundName": "General Instructions",
+                "roundRules": [
+                    "1) This is an offline event",
+                    "2) Team should consist of 3 members(at max)",
+                    "3) Registrations will be considered on a First Come First Serve basis",
+                    "4) No registration fee",
+                    "5) Only the team lead should register on behalf of the team.",
+                    "6) Each team will have 30 seconds to guess the song",
+                    "7) Qualification will be on knockout basis and the team that presses the buzzer first gets the opportunity to answer",
+                    "8) The event comprises of 3 rounds - Image Connection, Tune Identification and Lyrics Challenge",
+                    "9) Adhere to the rules and guidelines of the event and an inclusive environment is encouraged.",
+                    "10) E- Certificates will be provided for all participants"
+                ]
+            }
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Megha Varshini ",
+                "eventCoordinatorNumber": "+91 6385794376"
+            },
+            {
+                "eventCoordinatorName": "Prathyek",
+                "eventCoordinatorNumber": "+91 7904213829"
+            }
+        ],
+        "eventImage": "/event-img/logoo/Alaipaduthey.png",
+        "eventPoster": "/event-poster/FINAL POSTERS/14.png",
+        "eventPosterMob": "/event-poster/mob/6.png",
+        "eventType": "non-technical",
+        "eventUrl": "https://forms.gle/tAMgzWt7c2mNdqbx5",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+
+    {
+        "eventTitle": "Valorant",
+        "eventId": "Valorant",
+        "eventName": "Gaming",
+        "eventTagline": "Choose your agent wisely",
+        "mode": "Online",
+        "venue": false,
+        "EventDate": "1st November 2023",
+        "ReportingTime": false,
+        "EventTime": false,
+        "prize1": "1st Prize - Rs. 1000",
+        "prize2":"2nd Prize - Rs.500",
+        "eventDescription": " Thirteen steps to success. Get your battle face on as its time to travel to a multiverse in the near future. Defend your ground and ‘walk’ towards victory. ",
+        "Winners": "2",
+        "eventRounds": [{
+            "roundName": "Valorant: Instructions: ",
+            "roundRules": [
+                "1. This is an online event.",
+                "2. Each team must have a minimum of six (6) players that are eligible for the match (I.e.)one substitute player. (all players must have a riot account in good standing and must a discord account)",
+                "3. No registration fee.",
+                "4. Only the team leader should register on behalf of the team.",
+                "5. All members must submit their Riot Id and connect to the game only through it.",
+                "6. Map will be selected by elimination method by each team (current map pool :Ascent Bind  Breeze Haven Lotus,Split Sunset) Each team can eliminate a map of choosing until one map remains and that map will be played.",
+                "7. Number of rounds in the tournament will be decided based on the number of registered teams.",
+                "8. First team to win 13 rounds of a match will proceed to the next round of the tournament.",
+                "9 . Every match is a elimination match",
+                "10. Any instance of cheating will result in immediate ban from the tournament.(cheating includes auto-clickers, aim bots, and other unauthorized hardware or software that gives players an unfair advantage in game)",
+                "11. Players must join the discord server that is going to be used for conducting the tournament and communication (link will be provided).",
+                "12. Players must join the discord voice channel according to instructions 10 minutes before commencement of match."
+            ]
+        }],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Aditya Madhavan",
+                "eventCoordinatorNumber": "+91 7299985264"
+            },
+            {
+                "eventCoordinatorName": "Pramith Kiran",
+                "eventCoordinatorNumber": "+91 8072497714"
+            }
+        ],
+        "eventImage": "/event-img/logoo/Valorant.png",
+        "eventPoster": "/event-poster/FINAL POSTERS/10.png",
+        "eventPosterMob": "/event-poster/mob/8.png",
+        "eventType": "non-technical",
+        "eventUrl": "https://forms.gle/NhEn6Mc6HA6ebFsm8",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+    {
+        "eventTitle": "The Knight changes",
+        "eventId": "The Knight changes",
+        "eventName": "Chess",
+        "eventTagline": "Some things in life are black and white",
+        "mode": "Online & Offline",
+        "venue": "TV classroom",
+        "EventDate": "31th October 2023 (online) & 2nd November 2023",
+        "ReportingTime": "9.00 AM",
+        "EventTime": "9.15 AM onwards",
+        "prize1": "1st Prize - Rs. 1000",
+        "prize2":"2nd Prize - Rs.500",
+        "eventDescription": " Bring out the ‘mastermind’ in you by making soldiers and knights move to your whims.Conspire with the queen to protect the king. Make your each move count. ",
+        "Winners": "2",
+        "eventRounds": [{
+                "roundName": "Chess: The Instructions: ",
+                "roundRules": [
+                    "1) This is an mixed event (Initial rounds are online, final round is offline)",
+                    "2) Individual Registrations",
+                    "3) Registrations will be considered on a First Come First Serve basis",
+                    "4) No registration fee",
+                    "5) The participants are asked to have a stable internet connection for online rounds",
+                    "6) Online matches will be conducted via Online Swiss System",
+                    "7) Qualified participants are requested to bring their own chess boards for the final round",
+                    "8) E-Certificates will be provided for all the participants"
+
+                ]
+            }
+           
+            
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Sindhuja",
+                "eventCoordinatorNumber": "+91 7904874658"
+            },
+            {
+                "eventCoordinatorName": "Rashmi T",
+                "eventCoordinatorNumber": "+91 9840389967"
+            }
+        ],
+        "eventImage": "/event-img/logoo/The Knight Changes(Chess).png",
+        "eventPoster": "/event-poster/FINAL POSTERS/16.png",
+        "eventPosterMob": "/event-poster/mob/1.png",
+        "eventType": "non-technical",
+        "eventUrl": "https://forms.gle/FQ8jheKgK7zqbJnY6",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+    {
+        "eventTitle": "Trivia Fiesta",
+        "eventId": "Trivia Fiesta",
+        "eventName": "Pop Quiz",
+        "eventTagline": "A theatrical orchestration to MARVEL at.",
+        "mode": "Online",
+        "venue": "TV classroom",
+        "EventDate": "2nd November 2023",
+        "ReportingTime": "9.15 AM",
+        "EventTime": "9.30 AM - 11.45 AM",
+        "prize1": "1st Prize - Rs. 1000",
+        "prize2":"2nd Prize - Rs.500",
+        "eventDescription": " Hey VIPs,While you were sleeping, Stranger Things has been cooking in this part of the world.Try to pop it to the end in One Piece. From Baasha to Jailer, dive into The Eras of pop culture to rise as the Billa. Don’t forget to grab your F.r.i.e.n.d.s too. ",
+        "Winners": "2",
+        "eventRounds": [{
+                "roundName": "Pop Quiz: The Instructions: ",
+                "roundRules": [
+                    "1) This is an mixed event (Initial rounds are online, final round is offline)",
+                    "2) Individual Registrations",
+                    "3) Registrations will be considered on a First Come First Serve basis",
+                    "4) No registration fee",
+                    "5) The participants are asked to have a stable internet connection for online rounds",
+                    "6) Online matches will be conducted via Online Swiss System",
+                    "7) Qualified participants are requested to bring their own chess boards for the final round",
+                    "8) E-Certificates will be provided for all the participants"
+
+                ]
+            }
+           
+            
+        ],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Swetha S",
+                "eventCoordinatorNumber": "+91 9025187589"
+            },
+            {
+                "eventCoordinatorName": "Yuvanraj",
+                "eventCoordinatorNumber": "+91 9025847288"
+            }
+        ],
+        "eventImage": "/event-img/logoo/Trivia Fiesta.png",
+        "eventPoster": "/event-poster/FINAL POSTERS/1.png",
+        "eventPosterMob": "/event-poster/mob/2.png",
+        "eventType": "non-technical",
+        "eventUrl": "https://forms.gle/2wREPZmgPzqntQTv5",
+        "eventCloseDate": "30-10-2023",
+        "eventClosed": false
+    },
+    {
+        "eventTitle": "Code me like you do",
+        "eventId": "Code me like you do",
+        "eventName": "Hackathon",
+        "eventTagline": "I’ll let you set the pace",
+        "mode": "Offline",
+        "venue": "Beta Hall",
+        "EventDate": "1st November 2023",
+        "ReportingTime": "1st November 2023 9.00 AM",
+        "EventTime": "9:30 AM - 3:30 PM",
+        "Winners": "3",
+        "eventDescription": "First looks can be deceptive. Gauge the data and shift your perspective to get fresh insights. So, don’t be thinking straight ",
+        "eventRounds": [{
+            "roundName": "Instructions",
+            "roundRules": [
+                "1) This is an offline event",
+                "2) The event will be conducted via Kaggle at the venue",
+                "3) Team should consist of 2-3 members",
+                "4) Registrations will be considered on a First Come First Serve basis",
+                "5) No registration fee",
+                "6) Only the team lead should register on behalf of the team",
+                "7) Food will be provided for all participants",
+                "8) Evaluation will be based on the justification of the problem statement, EDA, work",
+                "done,visualization and viva on domain knowledge.",
+                "9) All participants are required to bring their laptops, ethernet cable and college IDs.",
+                "11) E-Certificates will be provided to all the participants."
+            ]
+        }],
+        "coordinatorDetails": [{
+                "eventCoordinatorName": "Shreya S",
+                "eventCoordinatorNumber": "+91 9025613268"
+            },
+            {
+                "eventCoordinatorName": "Aniruddhan S",
+                "eventCoordinatorNumber": "+91 9092961314"
+            },
+            {
+                "eventCoordinatorName": "Vishva Pranav S",
+                "eventCoordinatorNumber": "+91 7358596101"
+            }
+        ],
+        "prize1": "1st Prize - Rs.5000",
+        "prize2":"2nd Prize - Rs.3000",
+        "prize3":"3rd Prize - Rs.2000",
+        "eventImage": "/event-img/Synsarahackfingold.png",
+        "eventType": "events",
+        "eventPoster": "/event-poster/FINAL POSTERS/6.png",
+        "eventPosterMob": "/event-poster/mob/5.png",
+        "eventUrl": "https://forms.gle/9559Jtuq94twpBQP7",
+        "eventCloseDate": "01-11-2023",
+        "eventClosed": false
+    },
+    {
+        "eventTitle": "Technical Events",
+        "eventUrl": "Technical",
+        "eventImage": "/event-img/logo-main/3.png",
+        "eventType": "main"
+    },
+    {
+        "eventTitle": "Non-Technical Events",
+        "eventUrl": "non-technical",
+        "eventImage": "/event-img/logo-main/2.png",
+        "eventType": "main"
+    },
+    {
+        "eventTitle": "Hackathon",
+        "eventUrl": "Code me like you do",
+        "eventImage": "/event-img/logo-main/1.png",
+        "eventType": "main"
+    }
+]
