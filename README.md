@@ -1,4 +1,4 @@
-# Synsara '23 - National Level Technical Symposium
+# Synsara '23 - National Level Technical Symposium CSE
 
 Welcome to Synsara '23, the premier National Level Technical Symposium organized by the Computer Science and Engineering Department! This dynamic web application, built using React.js, Node.js, and Tailwind CSS, offers an immersive digital experience for our attendees. Whether you are a participant, speaker, or volunteer, Synsara '23 provides a seamless platform to engage with cutting-edge technologies, attend informative sessions, and network with professionals from the industry.
 
